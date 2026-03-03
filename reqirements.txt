@@ -1,0 +1,24 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning Models
+scikit-learn
+xgboost
+catboost
+lightgbm
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Deep Learning & Computer Vision (For your other projects)
+opencv-python
+torch
+torchvision
+ultralytics  # This is for YOLOv8
+
+# Deployment & Notebooks
+streamlit
+ipykernel
